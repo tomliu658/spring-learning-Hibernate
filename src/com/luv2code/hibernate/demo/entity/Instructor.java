@@ -20,8 +20,6 @@ public class Instructor {
 	
 	// annotate the fields with db column names
 	
-	// ** set up mapping to InstructorDetail entity
-	
 	// create constructors
 	
 	// generate getter/setter methods
